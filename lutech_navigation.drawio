@@ -1,66 +1,183 @@
-<mxfile host="app.diagrams.net">
-  <diagram id="lutech-map" name="LUtech Navigation">
-    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1">
+<mxfile host="app.diagrams.net" modified="2026-05-28T00:00:00.000Z" agent="ChatGPT" version="24.7.17">
+  <diagram id="lutech-integrated-map" name="LUtech Integrated Navigation">
+    <mxGraphModel dx="1800" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-
-        <mxCell id="title" value="LUtech Campus Ecosystem&#10;Strategic Intelligence Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B1020;fontColor=#FFFFFF;strokeColor=#1D4ED8;fontSize=22;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="20" width="420" height="80" as="geometry"/>
+        
+        <mxCell id="title" value="LUtech Campus Ecosystem
+Piattaforma metodologica e tecnologica per ecosistemi sostenibili" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B1020;strokeColor=#1D4ED8;fontColor=#FFFFFF;fontSize=20;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="620" height="80" as="geometry"/>
         </mxCell>
-
-        <mxCell id="or1" value="OR1 — Innovation Ecosystem &amp; Entrepreneurial Intelligence Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1D4ED8;fontColor=#FFFFFF;strokeColor=#1E40AF;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="520" height="70" as="geometry"/>
+        <mxCell id="ctx" value="Strategic Context
+AI / GenAI • Knowledge Base • PMI • Sostenibilità • Industry 5.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#6366F1;fontColor=#111827;fontSize=14;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="620" height="70" as="geometry"/>
         </mxCell>
-
-        <mxCell id="or11" value="OR1.1 — Framework Ecosystem&#10;• Modello organizzativo&#10;• Workflow&#10;• Knowledge model&#10;• Competence model&#10;• Service model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#60A5FA;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="300" height="180" as="geometry"/>
+        <mxCell id="hub" value="AI Framework for Innovation Hub
+Layer comune per servizi, dati, modelli e soluzioni" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#111827;fontSize=15;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="620" height="70" as="geometry"/>
         </mxCell>
-
-        <mxCell id="or12" value="OR1.2 — Algoritmi &amp; Modelli&#10;• KPI&#10;• NLP / OCR&#10;• Modelli predittivi&#10;• Ranking &amp; clustering&#10;• Simulazione rischio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#8B5CF6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="300" height="180" as="geometry"/>
+        <mxCell id="or1" value="OR1 — Ricerca Industriale
+Innovation Ecosystem &amp; Entrepreneurial Intelligence Framework
+Attuatore: LUM Enterprise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1D4ED8;strokeColor=#1E40AF;fontColor=#FFFFFF;fontSize=16;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="520" height="90" as="geometry"/>
         </mxCell>
-
-        <mxCell id="or5" value="OR5 — Intelligence Entrepreneurial Solution&#10;• Dashboard predittiva&#10;• DSS&#10;• Ranking PMI&#10;• Simulatore performance&#10;• Digital Twin readiness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCFCE7;strokeColor=#22C55E;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280" width="320" height="180" as="geometry"/>
+        <mxCell id="or2" value="OR2 — Ricerca Industriale
+Smart Mentoring Framework
+Attuatore: Lutech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0E7FF;strokeColor=#6366F1;fontColor=#111827;fontSize=14;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="320" height="90" as="geometry"/>
         </mxCell>
-
-        <mxCell id="smart" value="Smart Mentoring &amp; Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#F59E0B;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="240" height="70" as="geometry"/>
+        <mxCell id="or3" value="OR3 — Ricerca Industriale
+Smart Learning Experience Framework
+Attuatore: Grifo Multimedia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0F2FE;strokeColor=#0EA5E9;fontColor=#111827;fontSize=14;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="380" width="360" height="90" as="geometry"/>
         </mxCell>
-
-        <mxCell id="block" value="Blockchain &amp; Auditability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE7F3;strokeColor=#EC4899;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="520" width="240" height="70" as="geometry"/>
+        <mxCell id="or11" value="OR1.1 — Framework Entrepreneurial Ecosystem
+• Modello organizzativo
+• Modello processi / workflow
+• Modello conoscenza / knowledge graph
+• Modello competenze
+• Modello servizi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#60A5FA;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="330" height="190" as="geometry"/>
         </mxCell>
-
-        <mxCell id="exec" value="Executive Reporting&#10;SAL • Audit • Evidence Matrix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0F2FE;strokeColor=#0EA5E9;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="520" width="240" height="70" as="geometry"/>
+        <mxCell id="or12" value="OR1.2 — Algoritmi e Modelli di Valutazione
+• KPI
+• NLP / OCR / dati non strutturati
+• Modelli predittivi
+• Clustering / ranking
+• Simulazione rischio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#8B5CF6;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="330" height="190" as="geometry"/>
         </mxCell>
-
-        <mxCell id="e1" edge="1" parent="1" source="or1" target="or11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#60A5FA;strokeWidth=2;">
+        <mxCell id="or5" value="OR5 — Sviluppo Sperimentale
+Intelligence Entrepreneurial Solution
+• Dashboard predittiva
+• DSS
+• Ranking PMI / startup
+• Simulatore performance
+• Digital Twin readiness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCFCE7;strokeColor=#22C55E;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="540" width="350" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="or4" value="OR4 — Smart Mentoring Solution
+SS • Lutech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#F59E0B;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="800" width="260" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="or6" value="OR6 — Smart eLearning Solution
+SS • Grifo Multimedia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE7F3;strokeColor=#EC4899;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="800" width="280" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="or7" value="OR7 — Integrated Innovation Hub Business Solution
+SS • Lutech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#10B981;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="520" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="nav" value="Dashboard Navigation / Platform UX
+Context → Insight → Action → Simulation → Governance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#111827;fontSize=14;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="800" width="350" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="exec" value="Executive Reporting &amp; Audit
+SAL • Evidence Matrix • Export PDF/Excel • Audit Trail" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#64748B;fontColor=#111827;fontSize=13;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="920" width="360" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="n0" value="0. Executive Overview
+Roadmap OR1 • Readiness • OR1→OR5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#3B82F6;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1060" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n1" value="1. Ecosystem Context
+Settore • Use case • Template • Scenario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#6366F1;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1060" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n2" value="2. Ecosystem Architecture
+Actors • Flows • Workflow • Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDFA;strokeColor=#14B8A6;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1060" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3" value="3. Knowledge System
+Taxonomy • Ontology • Data Sources • Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAF5FF;strokeColor=#A855F7;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1060" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n4" value="4. KPI Intelligence
+KPI Master • AI capabilities • OR Mapping" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#22C55E;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1200" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n5" value="5. AI &amp; Decision Support
+Prediction • Ranking • Benchmarking • DSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#F97316;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1200" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n6" value="6. Simulation &amp; Digital Twin
+What-if • Risk • Blockchain • DT readiness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF2F2;strokeColor=#EF4444;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1200" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="n7" value="7. Governance &amp; Export
+SAL • Audit • Data Quality • Evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#64748B;fontColor=#111827;fontSize=12;arcSize=12;spacing=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1200" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_title_ctx" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6366F1;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="title" target="ctx">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-
-        <mxCell id="e2" edge="1" parent="1" source="or1" target="or12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#8B5CF6;strokeWidth=2;">
+        <mxCell id="e_ctx_hub" value="framework AI / knowledge" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2563EB;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="ctx" target="hub">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-
-        <mxCell id="e3" edge="1" parent="1" source="or12" target="or5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#22C55E;strokeWidth=2;">
+        <mxCell id="e_hub_or1" value="RI" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2563EB;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="hub" target="or1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-
-        <mxCell id="e4" edge="1" parent="1" source="or11" target="smart" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#F59E0B;strokeWidth=2;">
+        <mxCell id="e_hub_or2" value="RI" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6366F1;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="hub" target="or2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-
-        <mxCell id="e5" edge="1" parent="1" source="or12" target="block" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#EC4899;strokeWidth=2;">
+        <mxCell id="e_hub_or3" value="RI" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0EA5E9;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="hub" target="or3">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-
-        <mxCell id="e6" edge="1" parent="1" source="or5" target="exec" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#0EA5E9;strokeWidth=2;">
+        <mxCell id="e_or1_or11" value="OR1.1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60A5FA;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or1" target="or11">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-
+        <mxCell id="e_or1_or12" value="OR1.2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8B5CF6;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or1" target="or12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or12_or5" value="base cognitiva → SS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#22C55E;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or12" target="or5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or2_or4" value="framework → solution" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F59E0B;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or2" target="or4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or3_or6" value="framework → solution" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EC4899;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or3" target="or6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or5_or7" value="integrated solution" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#10B981;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or5" target="or7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or4_or7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F59E0B;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or4" target="or7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or6_or7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EC4899;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or6" target="or7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or7_exec" value="reporting / audit" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or7" target="exec">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_or11_nav" value="dashboard modules" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3B82F6;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="or11" target="nav">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_nav_n0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3B82F6;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="nav" target="n0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_nav_n1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6366F1;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="nav" target="n1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_nav_n2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#14B8A6;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="nav" target="n2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_nav_n3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A855F7;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="nav" target="n3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_n0_n4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#22C55E;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="n0" target="n4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_n1_n5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F97316;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="n1" target="n5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_n2_n6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EF4444;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="n2" target="n6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_n3_n7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=2;endArrow=block;endFill=1;fontSize=11;fontColor=#374151;" edge="1" parent="1" source="n3" target="n7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
